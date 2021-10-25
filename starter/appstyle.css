@@ -1,0 +1,86 @@
+.body {
+  background-color: blueviolet;
+  border-radius: 2px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 800px;
+  height: 1810px;
+  font-size: larger;
+}
+.body1 {
+  background-color: red;
+  border-radius: 2px;
+  width: 1000px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.body2 {
+  background-color: blue;
+  border-radius: 2px;
+  margin-left: auto;
+  margin-right: auto;
+}
+h3 {
+  text-align: center;
+}
+.Lorem-form {
+  text-align: center;
+}
+.submit {
+  background-color: blue;
+  border-radius: 15px;
+}
+.content {
+  text-align: center;
+  font-weight: bold;
+}
+.alert {
+  text-align: center;
+  font-weight: bold;
+  font-size: larger;
+}
+.info {
+  text-align: center;
+  font-family: "Times New Roman", Times, serif;
+  position: relative;
+  border-style: solid;
+  border-color: black;
+  border-radius: 3px;
+}
+footer {
+  text-align: center;
+  position: relative;
+  border-style: solid;
+  border-color: black;
+  border-radius: 3px;
+}
+.copy {
+  text-align: center;
+}
+.copy1 {
+  color: white;
+  background-color: blue;
+  font-weight: bolder;
+  border-radius: 10px;
+}
+.copy1:hover {
+  background-color: black;
+  border-radius: 20px;
+}
+.image {
+  width: 200px;
+  height: 200px;
+  margin-left: 300px;
+  margin-top: 20px;
+  margin-right: 400px;
+}
+.note1 {
+  width: 200px;
+  height: 200px;
+  margin-left: 300px;
+  margin-top: 20px;
+  margin-right: 400px;
+}
+.count {
+  text-align: center;
+}
